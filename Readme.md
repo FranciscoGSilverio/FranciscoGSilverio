@@ -1,5 +1,8 @@
 ### Hi there, I'm Francisco 👋 
 
+[<img align="left" alt="Inatel" width="26px" src="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hln8vvfhwbd3.png" />][Inatel]
+[<img align="left" alt="ETE" width="26px" src="https://i.pinimg.com/280x280_RS/9f/7b/2f/9f7b2f535ad0b0d2211d7a1678ddeecd.jpg" />][ETE]
+
 ## I'm a junior software developer and a software engineer studant at Inatel!!
 
 - 🌱 I’m currently learning about front-end development languages, tools and frameworks 
@@ -8,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Francisco | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Francisco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Francisco | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,6 +42,8 @@
 <br />
 <br />
 
+[Inatel]: https://inatel.br/home/
+[ETE]: https://www.etefmc.com.br
 [twitter]: https://twitter.com/FranciscoSilvr8
 [instagram]:  https://www.instagram.com/francisco_gsilverio/
 [linkedin]: https://www.linkedin.com/in/francisco-silvério-667793223/
