@@ -1,17 +1,8 @@
 ### Hi there, I'm Francisco 👋 
 
-<br />
-<br />
 
 ### I'm a junior software developer !!
-<br/>
 
-<h3> Currently taking my major in Sotware Engeneering at Inatel  <img align="left" alt="Inatel" width="30px" src="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hln8vvfhwbd3.png" /> <h3/>
-<br/>
-<h3> Systems development technician course at ETE FMC <img align="left" alt="ETE" width="30px" src="https://i.pinimg.com/280x280_RS/9f/7b/2f/9f7b2f535ad0b0d2211d7a1678ddeecd.jpg" />  <h3/> 
-<br/>
-
-  
 - 🌱 I’m currently learning about front-end development languages, tools and frameworks 
 - 🥅 2022 Goal: Learn as much as I can about programming 
 - ⚡ Fun fact: I love playing the guitar
