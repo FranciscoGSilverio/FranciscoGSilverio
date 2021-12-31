@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about front-end development languages, tools and frameworks 
 - 🥅 2022 Goal: Learn as much as I can about programming 
-- ⚡ Fun fact: I love playing the guitar
+- ⚡ Fun fact: I love playing the guitar and I'm probably online at discord right now 😄
 - 📖 Currently taking my major in Sotware Engeneering at Inatel  <img align="center" alt="Inatel" width="26px" src="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hln8vvfhwbd3.png" /> 
 - 📖 Systems development technician course at ETE FMC <img align="center" alt="ETE" width="26px" src="https://i.pinimg.com/280x280_RS/9f/7b/2f/9f7b2f535ad0b0d2211d7a1678ddeecd.jpg" /> 
 
@@ -14,6 +14,7 @@
 [<img align="left" alt="Francisco | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Francisco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Francisco | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="Francisco | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
 <br />
 
@@ -37,6 +38,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJs]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mySQL]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][TypeScript]
 
 
 <br />
@@ -68,6 +70,7 @@
 [mySQL]: https://www.w3schools.com/mySQl/default.asp
 [git]: https://git-scm.com
 [github]: https://github.com/FranciscoGSilverio
+[TypeScript]: https://www.w3schools.com/js/
 
 
 
