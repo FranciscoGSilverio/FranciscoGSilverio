@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about front-end development languages, tools and frameworks 
 - 🥅 2022 Goal: Learn as much as I can about programming 
 - ⚡ Fun fact: I love playing the guitar and I'm probably online at discord right now 😄
-- 📖 Currently taking my major in Sotware Engeneering at Inatel  <img align="center" alt="Inatel" width="26px" src="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hln8vvfhwbd3.png" /> 
+- 📖 Currently taking my major in Software Engeneering at Inatel  <img align="center" alt="Inatel" width="26px" src="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hln8vvfhwbd3.png" /> 
 - 📖 Systems development technician course at ETE FMC <img align="center" alt="ETE" width="26px" src="https://i.pinimg.com/280x280_RS/9f/7b/2f/9f7b2f535ad0b0d2211d7a1678ddeecd.jpg" /> 
 
 ### Connect with me:
