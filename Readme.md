@@ -45,16 +45,15 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <br/>
+ <summary>:zap: GitHub Stats</summary>
+<br/>
   <div align="center">
     <a href="https://github.com/FranciscoGSilverio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoGSilverio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGSilverio&layout=compact&langs_count=7&theme=dark"/>
   </div>
 
-</details>
+
 
 
 [twitter]: https://twitter.com/FranciscoSilvr8
