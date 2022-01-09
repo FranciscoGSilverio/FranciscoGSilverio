@@ -61,7 +61,7 @@
 
 [twitter]: https://twitter.com/FranciscoSilvr8
 [instagram]:  https://www.instagram.com/francisco_gsilverio/
-[linkedin]: https://www.linkedin.com/in/francisco-silvério-667793223/
+[linkedin]: https://www.linkedin.com/in/francisco-silverio/
 [vscode]: https://code.visualstudio.com
 [html]: https://github.com/FranciscoGSilverio/Canvas_Magic_Wand
 [css]: https://www.w3schools.com/css/
