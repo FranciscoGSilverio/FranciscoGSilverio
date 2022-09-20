@@ -1,7 +1,7 @@
 ### Hi there, I'm Francisco 👋 
 
 
-## I'm a junior software developer !!
+## I'm a software developer !!
 
 - 🌱 I’m currently learning about front-end development languages, tools and frameworks 
 - 🥅 2022 Goal: Learn as much as I can about programming 
