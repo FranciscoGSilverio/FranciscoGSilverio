@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **franciscogsilverio@gmail.com**
 
-- ⚡ Fun fact **I have an ex military**
+- ⚡ Fun fact **I am an ex military**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
