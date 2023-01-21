@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **franciscogsilverio@gmail.com**
 
-- ⚡: **if you liked my projects, have any ideias of inprovements or just want to get to know me better, feel free to send me an email or a message in any of the social media below**
+- ⚡ **If you liked my projects, have any ideias of improvements or just want to get to know me better, feel free to send me an email or a message in any of the social media below**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
